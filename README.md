@@ -1,4 +1,4 @@
-Voice Assistant Python
+Voice Assistant Powered by Python
 
 Overview
 

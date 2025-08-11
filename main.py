@@ -13,6 +13,7 @@ def talk(text):
     engine.say(text)
     engine.runAndWait()
 
+
 def listen():
     recognizer = sr.Recognizer()
     with sr.Microphone() as source:

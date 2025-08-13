@@ -54,7 +54,6 @@ def run_assistant():
     else:
         talk("Please say a command I can understand.")
 
-
 # Run the assistant. 
 while True:
     run_assistant()

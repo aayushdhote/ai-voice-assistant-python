@@ -9,7 +9,6 @@ import wikipedia
 # Initialize the speech engine
 engine = pyttsx3.init()
 
-
 def talk(text):
     engine.say(text)
     engine.runAndWait()

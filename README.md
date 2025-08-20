@@ -2,7 +2,6 @@ Voice Assistant Powered by Python
 
 Overview
 
-
 This is a simple voice-activated virtual assistant written in Python. It listens for voice commands through a microphone, processes them using speech recognition, and performs tasks such as playing music on YouTube, telling the current time, providing Wikipedia summaries, or stopping the program. The assistant uses text-to-speech to respond audibly to user commands.
 
 Features

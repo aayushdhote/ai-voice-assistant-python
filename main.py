@@ -6,7 +6,7 @@ import datetime
 import pywhatkit
 import wikipedia
 
-# Initialize the speech engine
+# Initialize the speech engin
 engine = pyttsx3.init()
 
 def talk(text):

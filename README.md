@@ -156,7 +156,7 @@ Error Handling:
 
 
 
-If the speech is unclear, the assistant says, "Sorry, I did not understand that."
+If the speech is unclear, the assistant says, "Sorry, I did not understand that.."
 
 
 

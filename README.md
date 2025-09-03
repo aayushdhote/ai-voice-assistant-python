@@ -120,7 +120,7 @@ Interact with the Assistant:
 
 
 
-The assistant will display "✅ Assistant started..." and "🎤 Listening..." in the console.
+The assistant will display "✅ Assistant started..." and "🎤 Listening..." in the console..
 
 
 
